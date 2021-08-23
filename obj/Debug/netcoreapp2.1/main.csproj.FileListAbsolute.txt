@@ -1,0 +1,11 @@
+/home/runner/Quete-2-POO-Heritage-en-C-Sharp/obj/Debug/netcoreapp2.1/main.csprojAssemblyReference.cache
+/home/runner/Quete-2-POO-Heritage-en-C-Sharp/obj/Debug/netcoreapp2.1/main.csproj.CoreCompileInputs.cache
+/home/runner/Quete-2-POO-Heritage-en-C-Sharp/obj/Debug/netcoreapp2.1/main.AssemblyInfoInputs.cache
+/home/runner/Quete-2-POO-Heritage-en-C-Sharp/obj/Debug/netcoreapp2.1/main.AssemblyInfo.cs
+/home/runner/Quete-2-POO-Heritage-en-C-Sharp/bin/Debug/netcoreapp2.1/main.deps.json
+/home/runner/Quete-2-POO-Heritage-en-C-Sharp/bin/Debug/netcoreapp2.1/main.runtimeconfig.json
+/home/runner/Quete-2-POO-Heritage-en-C-Sharp/bin/Debug/netcoreapp2.1/main.runtimeconfig.dev.json
+/home/runner/Quete-2-POO-Heritage-en-C-Sharp/bin/Debug/netcoreapp2.1/main.dll
+/home/runner/Quete-2-POO-Heritage-en-C-Sharp/bin/Debug/netcoreapp2.1/main.pdb
+/home/runner/Quete-2-POO-Heritage-en-C-Sharp/obj/Debug/netcoreapp2.1/main.dll
+/home/runner/Quete-2-POO-Heritage-en-C-Sharp/obj/Debug/netcoreapp2.1/main.pdb
